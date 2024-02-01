@@ -20,6 +20,8 @@ import com.example.demo.dto.UserRequest;
 import com.example.demo.entity.Board;
 import com.example.demo.service.BoardService;
 
+//GitHub test
+
 /**
  * 掲示板情報 Controller
  */
